@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.text-italic {
+  font-style: italic;
+}
+
+.bg-style {
+  background-color: #ffffcc;
+  padding-top: 10px;
+}
